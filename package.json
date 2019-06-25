@@ -1,0 +1,23 @@
+{
+  "name": "missing_letters",
+  "version": "0.0.1",
+  "description": "Node code sample. Show how to check that all english alphabet characters are used in a sentence.",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "test",
+    "example"
+  ],
+  "authors": [
+    "Sean D. Murray"
+  ],
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seandmurray/missing_letters"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
